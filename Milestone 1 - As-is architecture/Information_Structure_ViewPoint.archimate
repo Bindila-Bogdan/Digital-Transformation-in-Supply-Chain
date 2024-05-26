@@ -8,22 +8,22 @@
     <element xsi:type="archimate:BusinessObject" name="Business Object" id="id-5237119d72df415991ac4e140e1d6848"/>
     <element xsi:type="archimate:BusinessObject" name="Route" id="id-c11a0dc58e5c40c2ba23614bd4d396c3"/>
     <element xsi:type="archimate:BusinessObject" name="Transport Mode" id="id-2a5be3d599824fa482d79ddcfdbbd405"/>
-    <element xsi:type="archimate:BusinessObject" name="Shipment/Consigment" id="id-427fae938a014b83916c5a1d488dce0c"/>
+    <element xsi:type="archimate:BusinessObject" name="Shipment/ Consignment" id="id-427fae938a014b83916c5a1d488dce0c"/>
     <element xsi:type="archimate:BusinessObject" name="Contract" id="id-a73d22a46232425cb0a2d426ed344453"/>
     <element xsi:type="archimate:BusinessObject" name="Invoice" id="id-84c85b535a2041e4850b730cc7115379"/>
     <element xsi:type="archimate:BusinessObject" name="Freight Order" id="id-185bdcda72e94484897d3f4bf565e7f7"/>
-    <element xsi:type="archimate:BusinessObject" name="Disruptiom Information" id="id-f2c9e93d23a54031804dac2e730386bd"/>
+    <element xsi:type="archimate:BusinessObject" name="Disruption Information" id="id-f2c9e93d23a54031804dac2e730386bd"/>
     <element xsi:type="archimate:BusinessObject" name="Tracking" id="id-d1d6eb4ae9b94b5ca964217564f58ba4"/>
     <element xsi:type="archimate:BusinessObject" name="employees" id="id-231cc6b2a247470c9c7b5b6e9f040655"/>
     <element xsi:type="archimate:BusinessObject" name="orders expenditure" id="id-1c4d5fb4e86f40a788a88681c0ec327f"/>
     <element xsi:type="archimate:BusinessObject" name="salaries" id="id-0c74162267ad455aba5ed13d000ed045"/>
     <element xsi:type="archimate:BusinessObject" name="finance overview" id="id-3ff85699d78f4873bf479b38802dc8dd"/>
     <element xsi:type="archimate:Representation" name="Order Form" id="id-d3563ac000134f5a98eb8c45ebd387cf"/>
-    <element xsi:type="archimate:Representation" name="Imvoice Form" id="id-f3d007f7c169476aabae0959f103840c"/>
+    <element xsi:type="archimate:Representation" name="Invoice Form" id="id-f3d007f7c169476aabae0959f103840c"/>
   </folder>
   <folder name="Application" id="id-8075fb1bc73b4d75900b0b25ac46e1a9" type="application">
     <element xsi:type="archimate:DataObject" name="Customer Data" id="id-1f4c988e727a484b9c5ab3408defb735"/>
-    <element xsi:type="archimate:DataObject" name="Comtract Data" id="id-36f86dedde62493280f9a97eb3e51eb4"/>
+    <element xsi:type="archimate:DataObject" name="Contract Data" id="id-36f86dedde62493280f9a97eb3e51eb4"/>
     <element xsi:type="archimate:DataObject" name="Invoice Data" id="id-afe6cc93f37e4970bd58d4ebf4c68aaf"/>
     <element xsi:type="archimate:DataObject" name="Data" id="id-1c1f82a0b1174df4ae60b902056b2a41"/>
     <element xsi:type="archimate:DataObject" name="Data" id="id-42b695756ad741c4af465de32fcfd754"/>
