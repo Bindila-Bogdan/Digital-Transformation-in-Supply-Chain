@@ -36,7 +36,7 @@
     <element xsi:type="archimate:BusinessRole" name="Finance Head" id="id-d5b75292d08e47c2b769d76c7ee88323"/>
     <element xsi:type="archimate:BusinessRole" name="Secretary" id="id-06bd6e8b03f54f3b908ac59c142b6e9e"/>
     <element xsi:type="archimate:BusinessActor" name="Truck Driver" id="id-a68bf150eed441d9abebd212108e1058"/>
-    <element xsi:type="archimate:BusinessRole" name="Contract/Permanent" id="id-3d88e855788646b6a5685bb957c77444"/>
+    <element xsi:type="archimate:BusinessRole" name="Temporary/Permanent Driver" id="id-3d88e855788646b6a5685bb957c77444"/>
   </folder>
   <folder name="Application" id="id-aa744350196b465cb612dfc87040cef3" type="application"/>
   <folder name="Technology &amp; Physical" id="id-bf84d49bb7b24ed6a7b8087a99f26aec" type="technology"/>
@@ -221,7 +221,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="id-28c9197a811b4451b9d737e582834d48" source="id-29f9ed493ed042449692e2a174376fe0" target="id-854b7bcdf3f041d29b238d97afd56314" archimateRelationship="id-7a9de0fedec64828a5d70a7d7caafa50"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-854b7bcdf3f041d29b238d97afd56314" targetConnections="id-28c9197a811b4451b9d737e582834d48" archimateElement="id-3d88e855788646b6a5685bb957c77444">
-        <bounds x="396" y="402" width="157" height="55"/>
+        <bounds x="384" y="402" width="169" height="55"/>
       </child>
     </element>
   </folder>
