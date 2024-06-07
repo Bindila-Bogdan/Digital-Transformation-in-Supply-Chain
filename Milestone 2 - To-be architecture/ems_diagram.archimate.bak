@@ -8,7 +8,7 @@
     <element xsi:type="archimate:BusinessRole" name="Customer" id="id-b8fab36e878f4409826e907194f4bdfc"/>
     <element xsi:type="archimate:BusinessProcess" name="Choosing Route and Transport Mode" id="id-a9ae173dcb7c45939a98063396be6446"/>
     <element xsi:type="archimate:BusinessProcess" name="Evaluating Environment Objectivees and Impacts" id="id-e9ad7c37e4984608a92dfb5b7f8c1796"/>
-    <element xsi:type="archimate:BusinessProcess" name="Monitoring Progress towards Objective" id="id-28c9c2ac26d54facba5c987d8d1a4dc2"/>
+    <element xsi:type="archimate:BusinessProcess" name="Monitoring Progress Towards Objective" id="id-28c9c2ac26d54facba5c987d8d1a4dc2"/>
     <element xsi:type="archimate:BusinessProcess" name="Setting Environmental Goals" id="id-2c60ba24e0554c7a98c5785165a13d7f"/>
     <element xsi:type="archimate:BusinessActor" name="Strategic Decisions Board" id="id-eac606b242944192b89a4dfe7299447b"/>
     <element xsi:type="archimate:BusinessProcess" name="Enhancing Environmental Awareness" id="id-b9459f34a893401ab5abae57b5885640"/>
