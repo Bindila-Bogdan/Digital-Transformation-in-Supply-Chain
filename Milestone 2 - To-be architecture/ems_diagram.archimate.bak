@@ -144,7 +144,6 @@
       <child xsi:type="archimate:DiagramObject" id="id-e30d4677fe4342fd873d883fc9e8de32" archimateElement="id-b91f85e1cd2349cbb25b09583974e2c1">
         <bounds x="467" y="660" width="145" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-575ea110763647c8b161e80f999ef905" source="id-e30d4677fe4342fd873d883fc9e8de32" target="id-15f0db34a6d84ac19c912591ab03a660" archimateRelationship="id-a7c12422fcdf4893b1908ea3eed9e96e"/>
-        <sourceConnection xsi:type="archimate:Connection" id="id-344736f65c01494e83112bb241d5352c" source="id-e30d4677fe4342fd873d883fc9e8de32" target="id-72946abab0ec4ce3b795ce50a661a89b" archimateRelationship="id-b3a80fd883ee41b2b6f7324c1f9fb515"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-15f0db34a6d84ac19c912591ab03a660" targetConnections="id-575ea110763647c8b161e80f999ef905" archimateElement="id-b911bc24a5824980a41c925e425ca965">
         <bounds x="467" y="552" width="145" height="55"/>
@@ -267,9 +266,6 @@
       <child xsi:type="archimate:DiagramObject" id="id-ab9ad223d9504fb4915c1fdbae4b61fa" targetConnections="id-3b238a9776ea4959b570ce3465ec96ec" archimateElement="id-ddbeee05808c4572902cf483f4111009">
         <bounds x="240" y="420" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-e0fc7fbd48de41bc8631f214c35ac166" source="id-ab9ad223d9504fb4915c1fdbae4b61fa" target="id-259819ea9aef4a41acafbb40dd5431d2" archimateRelationship="id-1b4e39f3ae3c435bb9f3ea20a18e7a39"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="id-72946abab0ec4ce3b795ce50a661a89b" targetConnections="id-344736f65c01494e83112bb241d5352c" archimateElement="id-138b40f56b904ec2875697b93ea71408">
-        <bounds x="264" y="660" width="168" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-9f5724c7e3854038abbace4b60e2ec47" targetConnections="id-dbeb6a60e21143c99e211d1eaa05d58b" archimateElement="id-5b561ee1a7cf4ab2b2f5bf0cc3b7a9be">
         <bounds x="1200" y="648" width="229" height="61"/>
