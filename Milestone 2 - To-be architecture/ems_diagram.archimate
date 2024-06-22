@@ -71,7 +71,9 @@
     <element xsi:type="archimate:Constraint" name="Used " id="id-3e5c3061183243b5add07a4437b20fe7"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-7f8ea47cccd441c3b9b17812c8c7e319" type="implementation_migration"/>
-  <folder name="Other" id="id-cee0326a7c3e4b8c9f4bee21bd62b2d7" type="other"/>
+  <folder name="Other" id="id-cee0326a7c3e4b8c9f4bee21bd62b2d7" type="other">
+    <element xsi:type="archimate:Grouping" name="Grouping" id="id-af82bf8c9334413f96f0dcc8947ec4aa"/>
+  </folder>
   <folder name="Relations" id="id-d344a5bc01f8485b93c0aa27a76539c9" type="relations">
     <element xsi:type="archimate:AssociationRelationship" id="id-fcfc3e5010824b9986ff13524c931ba3" source="id-33c21f38e1fc4a5b989fa2df1ba3bd49" target="id-1224c08a4857446189d68dee05fbe945"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-c601da48bcb1451f95cda8512cb4b8d3" source="id-b8fab36e878f4409826e907194f4bdfc" target="id-1224c08a4857446189d68dee05fbe945"/>
@@ -338,7 +340,7 @@
           <bendpoint startX="420" startY="225" endX="-624" endY="297"/>
           <bendpoint startX="924" startY="225" endX="-120" endY="297"/>
           <bendpoint startX="924" startY="9" endX="-120" endY="63"/>
-          <bendpoint startX="1008" startY="9" endX="-36" endY="63"/>
+          <bendpoint startX="1008" startY="21" endX="-36" endY="57"/>
         </sourceConnection>
         <sourceConnection xsi:type="archimate:Connection" id="id-d718261a4f9a4a7b9a37d0136076755b" source="id-6c59f1ccd8ce4bc4b6fe5e762cd6f1a2" target="id-99674fef7e194581aff536ed4821a9a6" archimateRelationship="id-4140e45eaf3744c2b7b3668e861efb01">
           <bendpoint startX="-96" startY="-15" endX="27" endY="126"/>
