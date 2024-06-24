@@ -56,7 +56,7 @@
     <element xsi:type="archimate:Outcome" name="Fewer employees do manual work" id="id-c2436dcbd6734ac0854ae729c6f8b493"/>
     <element xsi:type="archimate:Goal" name="Improve planning, delivery estimates and tracking" id="id-620b38e6025542aab2dab09bfe79227c"/>
     <element xsi:type="archimate:Outcome" name="Increase the capacity of the company" id="id-e93a9c590e9448429714d9069233be1b"/>
-    <element xsi:type="archimate:Constraint" name="They are compatible with customers' systems" id="id-309353786ed146889781e418eb5205db"/>
+    <element xsi:type="archimate:Constraint" name="They are ompatible with customers' systems" id="id-309353786ed146889781e418eb5205db"/>
     <element xsi:type="archimate:Constraint" name=" Intergation of routes of outsourcing companies is possible" id="id-02b67e23a4f6435190bcabd8f5c21c02"/>
     <element xsi:type="archimate:Outcome" name="Clients receive updates in real-time" id="id-08e6dada04794ec192b4d49cdc6eba67"/>
     <element xsi:type="archimate:Requirement" name="Send information about cargo conditions for transport of perishable goods" id="id-ae83952219f347be84c0678a4483d23f"/>
