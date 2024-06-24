@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="(new model)" id="id-7b9713f8cae04696a49a09ce83cce7dd" version="5.0.0">
+  <folder name="Strategy" id="id-539afe07378a408a952b8097870918b7" type="strategy"/>
+  <folder name="Business" id="id-bcb628b8ed4c44fcb6d23dafaa8664cb" type="business"/>
+  <folder name="Application" id="id-8852e8aea46d4115881162bc75353ea2" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-e26f541b4acd479cbc069fabf32f260d" type="technology"/>
+  <folder name="Motivation" id="id-740265ab31f149189ed14d7f59528ec8" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-82c5b368cc034258aeb418cf7d97d7ea" type="implementation_migration"/>
+  <folder name="Other" id="id-2f3ba1127cc14501ae386547aa5af6e3" type="other">
+    <element xsi:type="archimate:Grouping" name="Infrastructure" id="id-a6a9f2bed44e4858a20602f75ae5d8ce"/>
+    <element xsi:type="archimate:Grouping" name="External Infrastructure Services" id="id-2465ea95555d45e588510687e5a074e5"/>
+    <element xsi:type="archimate:Grouping" name="Application Components and Services" id="id-d1f690f2d1f44021bae3613733b6a9dc"/>
+    <element xsi:type="archimate:Grouping" name="External Application Services" id="id-84e202b2a8264922ad4560ca50355119"/>
+    <element xsi:type="archimate:Grouping" name="Business Processes and Internal Actors / Roles" id="id-2a655a8484734401b16808762b5faaba"/>
+    <element xsi:type="archimate:Grouping" name="External Business Services" id="id-82d3376abd5246c69cb46653137d830e"/>
+    <element xsi:type="archimate:Grouping" name="External Roles and Actors" id="id-44403515dc854522a3f3956e82a3e58c"/>
+  </folder>
+  <folder name="Relations" id="id-fa0023245a6643fe8c4f19cfce436062" type="relations"/>
+  <folder name="Views" id="id-9c5d5f5f071444c4a0acbb80561290d3" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-fcf96b59848e44f2ae80363f2700b111">
+      <child xsi:type="archimate:DiagramObject" id="id-eea1373c6663493f9fefe7a2dfe3c428" textAlignment="1" archimateElement="id-a6a9f2bed44e4858a20602f75ae5d8ce">
+        <bounds x="144" y="696" width="400" height="140"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-76e1e6684a964078b97cf6438f68d603" textAlignment="1" archimateElement="id-2465ea95555d45e588510687e5a074e5">
+        <bounds x="144" y="552" width="400" height="140"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-024b3d5d07ee4c30a8ebfe14895752c0" textAlignment="1" archimateElement="id-d1f690f2d1f44021bae3613733b6a9dc">
+        <bounds x="144" y="408" width="400" height="140"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-912b65a98a1145a9bffd1710f4c8cc45" textAlignment="1" archimateElement="id-84e202b2a8264922ad4560ca50355119">
+        <bounds x="144" y="264" width="400" height="140"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-87af422832d440739c7204cc355b51ce" textAlignment="1" archimateElement="id-2a655a8484734401b16808762b5faaba">
+        <bounds x="144" y="120" width="400" height="140"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-8c42910c36574d618094d76eef9694c0" textAlignment="1" archimateElement="id-82d3376abd5246c69cb46653137d830e">
+        <bounds x="144" y="-24" width="400" height="140"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-0e0409b9901f414c8ab754a05a21bf97" textAlignment="1" archimateElement="id-44403515dc854522a3f3956e82a3e58c">
+        <bounds x="144" y="-168" width="400" height="140"/>
+      </child>
+    </element>
+  </folder>
+</archimate:model>
