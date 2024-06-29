@@ -639,7 +639,7 @@
             </sourceConnection>
             <sourceConnection xsi:type="archimate:Connection" id="id-35cfc0571df24fe987916ed92c89182a" source="id-28bc9ba8b19540f3a725ba6af0017e2b" target="id-baa8f3e72f754225b6ecba3c1c0e45f9" archimateRelationship="id-cbff92bfee9f46f0b45a2b970fa8b9ff">
               <bendpoint startX="-42" startY="-50" endX="432" endY="370"/>
-              <bendpoint startX="-588" startY="-45" endX="-113" endY="375"/>
+              <bendpoint startX="-588" startY="-46" endX="-114" endY="374"/>
               <bendpoint startX="-588" startY="-417" endX="-113" endY="3"/>
             </sourceConnection>
           </child>
