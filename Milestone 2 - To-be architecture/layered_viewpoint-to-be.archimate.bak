@@ -702,11 +702,10 @@
           </sourceConnection>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-0b0da028bdc1499bbfc993002b3a3df8" targetConnections="id-2a261ea3f51f4463af2f8c013694a9a0 id-bbd982b7686d4ab88989d94acfbf5334" archimateElement="id-2ba993dc0a5840879feb8adc9f17dff3">
-          <bounds x="192" y="39" width="120" height="55"/>
+          <bounds x="204" y="39" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-99b447a2d35a47bda46da23e454db78a" source="id-0b0da028bdc1499bbfc993002b3a3df8" target="id-cc10515f81f240a48021f2c621c2c7be" archimateRelationship="id-1795444e32d24441ba9e094935481852">
             <bendpoint startX="12" startY="-85" endX="144" endY="50"/>
-            <bendpoint startX="-60" startY="-84" endX="60" endY="50"/>
-            <bendpoint startX="-132" startY="-84" endX="-12" endY="50"/>
+            <bendpoint startX="-144" startY="-85" endX="-12" endY="50"/>
           </sourceConnection>
         </child>
       </child>
