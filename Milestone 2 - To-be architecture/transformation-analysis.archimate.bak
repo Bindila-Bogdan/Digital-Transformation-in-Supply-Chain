@@ -734,7 +734,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="id-ca0714c9d1944fe4b5b3e90ec7f2ac4b" source="id-8ba8205c0435410b9a553568842e4ec0" target="id-bb2fc2d1ed9b475f9f7540ed1370706c" archimateRelationship="id-cdb66993dfad4fee8dccf8face726ac6"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-bb2fc2d1ed9b475f9f7540ed1370706c" targetConnections="id-71dfcb35ace845a7ae5d95252625bdb4 id-e63c0265439d42f1a30c5bc26036b3b0 id-ca0714c9d1944fe4b5b3e90ec7f2ac4b id-fae31c19d710428d865a34093b969f20" archimateElement="id-4c148df29ed34b258fb92f5d91836bce">
-        <bounds x="3156" y="358" width="609" height="90"/>
+        <bounds x="3108" y="358" width="577" height="90"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-ec9eb4994df645f890e5755ac5b82586" targetConnections="id-d01c01063d784ebfa84377a23e34a8f8" archimateElement="id-bf4a7dd4844543c2bd8eaac4c42c0a78" type="1">
         <bounds x="1200" y="557" width="120" height="68"/>
@@ -761,7 +761,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="id-fe79a12cca61489f8c2898ada33e8a31" source="id-4152e1213d40440194dbdc204e1c1398" target="id-8ba8205c0435410b9a553568842e4ec0" archimateRelationship="id-a5d47232921c4d31ab9535ec0c3c0a3a"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-586d68ef97774a988ee6c302f46723e2" targetConnections="id-0458bbf22a7f4d579445c614c246a87d" archimateElement="id-6a24e15187ee4b2395e9f82906292194" type="1">
-        <bounds x="3276" y="480" width="120" height="55"/>
+        <bounds x="3204" y="479" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-71dfcb35ace845a7ae5d95252625bdb4" source="id-586d68ef97774a988ee6c302f46723e2" target="id-bb2fc2d1ed9b475f9f7540ed1370706c" archimateRelationship="id-cb4ba62bbd5f4afa82b7515c6ae8d1ac"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-f9d7b85169d9482bb45e935123e91dbf" targetConnections="id-9c1cddd3ffc94c03a73229ee0d23ff4d" archimateElement="id-72279e3fee7a405bb44e4a9538b686ae" type="1">
@@ -808,9 +808,9 @@
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-072a4ccd5d2641759d869c0a3b3539f7" archimateElement="id-722caa44fa854826946d40ac9a7a7b35">
-        <bounds x="3048" y="478" width="132" height="60"/>
+        <bounds x="3024" y="478" width="132" height="60"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-e63c0265439d42f1a30c5bc26036b3b0" source="id-072a4ccd5d2641759d869c0a3b3539f7" target="id-bb2fc2d1ed9b475f9f7540ed1370706c" archimateRelationship="id-ccacee86a5c44a0ea3973bab0388ffce">
-          <bendpoint startX="115" startY="4" endX="-297" endY="103"/>
+          <bendpoint startX="91" startY="-4" endX="-232" endY="102"/>
         </sourceConnection>
         <sourceConnection xsi:type="archimate:Connection" id="id-323fe7c6f67247169ece5df850466c75" source="id-072a4ccd5d2641759d869c0a3b3539f7" target="id-8ba8205c0435410b9a553568842e4ec0" archimateRelationship="id-c113f1bd5b9b47438826bf3241dedb08">
           <bendpoint startX="-113" startY="-4" endX="227" endY="103"/>
@@ -877,16 +877,16 @@
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-244eafa2f6444c28b781fc01d31cb6da" targetConnections="id-0f2c731fa6204820a3b327e85b1938bd" archimateElement="id-6326efd73c624a4395a8ae27f42bc72e">
-        <bounds x="3284" y="661" width="120" height="55"/>
+        <bounds x="3212" y="660" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-0458bbf22a7f4d579445c614c246a87d" source="id-244eafa2f6444c28b781fc01d31cb6da" target="id-586d68ef97774a988ee6c302f46723e2" archimateRelationship="id-e9d85c617edb46c18924269aa4be9bea"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-570db3a676c7404aa9f20e33c9731272" source="id-244eafa2f6444c28b781fc01d31cb6da" target="id-9404a0d6e631444689ee86007e366703" archimateRelationship="id-4bfd79a00a1b4b86bc90bdb2023d6150"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-f59aaa30ac3f4ba6b3e5dc799a60753c" targetConnections="id-f7299d1bdb4a45f385c8d542d4f4aaf8" archimateElement="id-d98d010122da4bbf815b61c95bf36c70" type="1">
-        <bounds x="3480" y="480" width="120" height="72"/>
+        <bounds x="3384" y="478" width="120" height="72"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-fae31c19d710428d865a34093b969f20" source="id-f59aaa30ac3f4ba6b3e5dc799a60753c" target="id-bb2fc2d1ed9b475f9f7540ed1370706c" archimateRelationship="id-1c78af3689034e409a2c7c9d35b4747a"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-9404a0d6e631444689ee86007e366703" targetConnections="id-570db3a676c7404aa9f20e33c9731272" archimateElement="id-fed3fc12ccef4975b01abc07af257aed">
-        <bounds x="3464" y="661" width="156" height="55"/>
+        <bounds x="3368" y="659" width="156" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-f7299d1bdb4a45f385c8d542d4f4aaf8" source="id-9404a0d6e631444689ee86007e366703" target="id-f59aaa30ac3f4ba6b3e5dc799a60753c" archimateRelationship="id-8f1b08c508494fcba436838c9471532a"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-2d29017c39144b7d83820b0afa0defb8" source="id-9404a0d6e631444689ee86007e366703" target="id-ad0e6776ac2e4c6bb4952f659e4db1e8" archimateRelationship="id-e6a5ec8abe884d79b4d2368438c6f8a6"/>
       </child>
@@ -895,7 +895,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="id-9f89a585cb774277b468ead97e6b30af" source="id-920bd21603df4d559f427db806449fce" target="id-5e8b0b6e5f684184baa71e7d89a2b7e4" archimateRelationship="id-e73f2f7657824cdc936c61e525511903"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-ad0e6776ac2e4c6bb4952f659e4db1e8" targetConnections="id-2d29017c39144b7d83820b0afa0defb8" archimateElement="id-9ef2b7f628c24edb8e17e25c2d54fc16">
-        <bounds x="3656" y="659" width="120" height="55"/>
+        <bounds x="3564" y="658" width="120" height="55"/>
       </child>
     </element>
   </folder>

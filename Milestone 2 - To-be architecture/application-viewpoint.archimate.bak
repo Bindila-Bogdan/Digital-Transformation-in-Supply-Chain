@@ -4,7 +4,7 @@
   <folder name="Business" id="id-29051cd2fdf1405eb689dba0cd4591e6" type="business"/>
   <folder name="Application" id="id-55c334411d9a45ae87750d77f0595994" type="application">
     <element xsi:type="archimate:ApplicationComponent" name="Enterprise Service Bus" id="id-ca92333ff8394bc8a7079040b6ebe937"/>
-    <element xsi:type="archimate:ApplicationService" name="Monitor and control message exchanges" id="id-ebd58ee8f0ea4f619a468fd9bd76649d"/>
+    <element xsi:type="archimate:ApplicationService" name="Monitor and control message exchange" id="id-ebd58ee8f0ea4f619a468fd9bd76649d"/>
     <element xsi:type="archimate:ApplicationService" name="Transform data format" id="id-c9c873e767664f4cbf31672a5aba5ed2"/>
     <element xsi:type="archimate:ApplicationService" name="Route messages" id="id-f7a7974d3588484b9ee6d94b0e15a1a6"/>
     <element xsi:type="archimate:ApplicationComponent" name="EMS Application" id="id-421c6d516fdf4f7992e4c9f87caff94a"/>
@@ -46,7 +46,7 @@
     <element xsi:type="archimate:FlowRelationship" name="Get Data" id="id-c3a88009b3f14ba29f04eb68ab75578e" source="id-f7a7974d3588484b9ee6d94b0e15a1a6" target="id-f1583b029a304c00970c79b434891396"/>
     <element xsi:type="archimate:FlowRelationship" name="Send TMS Data" id="id-578a53ca2dd6451c9a364261a9a13b68" source="id-f1583b029a304c00970c79b434891396" target="id-f7a7974d3588484b9ee6d94b0e15a1a6"/>
     <element xsi:type="archimate:FlowRelationship" name="Get Data" id="id-d71200e2dbe64fcb91bf3e683067f673" source="id-f7a7974d3588484b9ee6d94b0e15a1a6" target="id-0b78696372534e5d960b9685467d3918"/>
-    <element xsi:type="archimate:FlowRelationship" name="Send GLOW Data" id="id-50d6a5b34d404770ab64828120d89a2a" source="id-0b78696372534e5d960b9685467d3918" target="id-f7a7974d3588484b9ee6d94b0e15a1a6"/>
+    <element xsi:type="archimate:FlowRelationship" name="Send Glow Data" id="id-50d6a5b34d404770ab64828120d89a2a" source="id-0b78696372534e5d960b9685467d3918" target="id-f7a7974d3588484b9ee6d94b0e15a1a6"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-862a5366f3784506a3fee69dc2c67810" source="id-9731558cb15d43b1964c63965e573cb2" target="id-212e016c763f4327aea1548c437d0823"/>
     <element xsi:type="archimate:AssignmentRelationship" id="id-bf4d80f18a7140359f29f8bb728285a2" source="id-9731558cb15d43b1964c63965e573cb2" target="id-01a485cfa30d4352bc82406edff8b9bf"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-a348dad36da144769c26921563f2cbee" source="id-3b47a7788c9c47eb844cc082b29a300a" target="id-0eac0050624a437aa11b69d4b6e23071"/>

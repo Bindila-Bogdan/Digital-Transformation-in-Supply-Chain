@@ -80,7 +80,7 @@
   <folder name="Motivation" id="id-39cd0baba0ae418eb9a1c08124ab3d47" type="motivation"/>
   <folder name="Implementation &amp; Migration" id="id-62de6453451340c7a823be0757e5058f" type="implementation_migration">
     <element xsi:type="archimate:Plateau" name="Baseline" id="id-469c2f3d11d142ab99d3f2f939f366dd"/>
-    <element xsi:type="archimate:Plateau" name="Infrastrcture Improvement" id="id-426e9139f19646fd9092d0d476075682"/>
+    <element xsi:type="archimate:Plateau" name="Infrastructure Improvement" id="id-426e9139f19646fd9092d0d476075682"/>
     <element xsi:type="archimate:Plateau" name="Transport Management System Implemented" id="id-df24e8f6165a42e6bd72ed91041c22c5"/>
     <element xsi:type="archimate:Plateau" name="Environmental Management System Implemented" id="id-2919eae99ebc4f1291ca8286d221fa7b"/>
     <element xsi:type="archimate:Plateau" name="Target" id="id-5ff2a5d560aa485699654d8e399f8931"/>

@@ -37,21 +37,21 @@
     <element xsi:type="archimate:ApplicationComponent" name="Sensor Monitoring App" id="id-d602ee342cfe48a78ed8f3b654db486b"/>
     <element xsi:type="archimate:ApplicationInterface" name="Sensor Monitoring Interface" id="id-ddbeee05808c4572902cf483f4111009"/>
     <element xsi:type="archimate:DataObject" name="Employees' assessment" id="id-9ffd36e7f94e40ceb2ebf7e500bed1e3"/>
-    <element xsi:type="archimate:ApplicationService" name="Web Service" id="id-fa67d9b946a3430a9e6389e89e3bd065"/>
+    <element xsi:type="archimate:ApplicationService" name="Training Web Service" id="id-fa67d9b946a3430a9e6389e89e3bd065"/>
     <element xsi:type="archimate:ApplicationFunction" name="Training Logic" id="id-072cc5c858d34e03a5ca1a1c4996c5d9"/>
-    <element xsi:type="archimate:ApplicationService" name="Web Service " id="id-46d05ecb0dbf405790d5b95beb3bce22"/>
+    <element xsi:type="archimate:ApplicationService" name="Tracking Web Service " id="id-46d05ecb0dbf405790d5b95beb3bce22"/>
     <element xsi:type="archimate:ApplicationFunction" name="Sensor Logic" id="id-6723465bcccd4274912a833398357dae"/>
     <element xsi:type="archimate:ApplicationFunction" name="Tracking Logic" id="id-1f69e2a51a8948978cd4580c1e248ff1"/>
-    <element xsi:type="archimate:ApplicationService" name="Web Service " id="id-09ae9a397e66444ca5ef9061a109fc55"/>
+    <element xsi:type="archimate:ApplicationService" name="Sensor Monitoring Web Service " id="id-09ae9a397e66444ca5ef9061a109fc55"/>
     <element xsi:type="archimate:ApplicationFunction" name="Sensor Monitoring Logic" id="id-90b46f1cec624de5badfe185f328e9de"/>
-    <element xsi:type="archimate:ApplicationService" name="Web Service " id="id-30935e12452841088b733aa7d196ede8"/>
-    <element xsi:type="archimate:ApplicationFunction" name="Configuraiton Logic" id="id-5beee9703814470dbd2c4eb69a593049"/>
+    <element xsi:type="archimate:ApplicationService" name="Config. Web Service " id="id-30935e12452841088b733aa7d196ede8"/>
+    <element xsi:type="archimate:ApplicationFunction" name="Configuration Logic" id="id-5beee9703814470dbd2c4eb69a593049"/>
     <element xsi:type="archimate:ApplicationFunction" name="Evaluation Logic" id="id-01f2a9475c584f64a368daa7916b8329"/>
     <element xsi:type="archimate:ApplicationFunction" name="Monitoring Logic" id="id-7f01973fd59d4d26a22982f0ca1c58e4"/>
     <element xsi:type="archimate:ApplicationFunction" name="Goal Logic" id="id-f3c97ae1239e431eaeae2174415b413b"/>
-    <element xsi:type="archimate:ApplicationService" name="Web Service " id="id-fba1343d88ae4a108707f630b9d49130"/>
-    <element xsi:type="archimate:ApplicationService" name="Web Service " id="id-d4b6ae5ee5c54ecb8357a522ffbf7c0d"/>
-    <element xsi:type="archimate:ApplicationService" name="Web Service " id="id-b735e63b05264425aa84c1e34ff79cea"/>
+    <element xsi:type="archimate:ApplicationService" name="Eval. Web Service " id="id-fba1343d88ae4a108707f630b9d49130"/>
+    <element xsi:type="archimate:ApplicationService" name="Monitor Web Service " id="id-d4b6ae5ee5c54ecb8357a522ffbf7c0d"/>
+    <element xsi:type="archimate:ApplicationService" name="Goal Web Service " id="id-b735e63b05264425aa84c1e34ff79cea"/>
   </folder>
   <folder name="Technology &amp; Physical" id="id-4c62287f85eb419eacc1a894a462aab6" type="technology">
     <element xsi:type="archimate:Artifact" name="Artifact" id="id-be45deeb79d54b999c99d3a8e3a203dc"/>
@@ -420,7 +420,7 @@
         <bounds x="624" y="360" width="91" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-52e28d2594c14686a99d9a73fb78651b" targetConnections="id-3e40bffdc2d84b618a49555f61dfa01a id-6e2ff790ede349bf846f1ae18ab761e2" archimateElement="id-09ae9a397e66444ca5ef9061a109fc55">
-        <bounds x="336" y="474" width="91" height="55"/>
+        <bounds x="324" y="474" width="109" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-d3f94b65ee71415ea1be3c1312077e3a" targetConnections="id-f7e398bd6ba74c2e8b763434411251ba id-e32d56671b174269a5cd3db5347ff73c" archimateElement="id-30935e12452841088b733aa7d196ede8">
         <bounds x="840" y="468" width="91" height="55"/>
